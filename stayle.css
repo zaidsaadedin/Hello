@@ -1,0 +1,47 @@
+.table{
+background-color: white;
+width: 170px;
+}
+
+#tt,td,th{
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 3px;
+	text-align: center;
+}
+
+
+.head{
+color: blue;
+font-size: 20px;
+width: 650px;
+left: 50px;
+margin-left: 5px;
+border: 3px solid black;
+}
+
+.form1{
+	position: static;
+	border: 1px solid black;
+	background-color: white;
+	text-align: center;
+	width: 300px;
+	height: 200px;
+	padding-top: 20px;
+}
+
+.user_login{
+	color:black;
+	font-style:italic; 
+}
+
+a{
+	color:black;
+
+
+}
+
+a:hover{
+color: red;
+}
+
